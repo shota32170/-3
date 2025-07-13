@@ -1,0 +1,24 @@
+#container {
+display: flex;
+flex-direction: row;
+gap: 20px;
+align-items: flex-start;
+}
+
+#controls{
+width: 40%;
+padding: 10px;
+box-sizing: border-box;
+}
+
+#graph {
+width: 60%;
+padding: 10px;
+box-sizing: border-box;
+}
+
+#test {
+width: 100%;
+height: auto;
+border: 1px solid #ccc;
+}
